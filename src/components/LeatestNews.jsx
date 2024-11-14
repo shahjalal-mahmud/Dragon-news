@@ -9,7 +9,7 @@ const LeatestNews = () => {
             </p>
             <div>
                 <Marquee pauseOnHover={true} loop={0} speed={75} className="font-semibold text-lg">
-                Match Highlights: Germany vs Spain — as it happened   !   Match Highlights: Germany vs Spain as...
+                Breaking News: We are on a mission to find the perfect life partner for Preo! Stay tuned for updates as the search intensifies... Will she finally meet "The One"?   💍👀❤️  Who knows, maybe someone is out there waiting for her as we speak...
                 </Marquee>
             </div>
         </div>
